@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SARATH KUMAR</h1>
 <h3 align="center">GUVI And IIT-M Certified MERN Stack Developer</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 End to End Application Developer
 
 - 👨‍💻 All of my projects are available at [https://sarav2-pearl.vercel.app/](https://sarav2-pearl.vercel.app/)
 
